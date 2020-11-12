@@ -1,3 +1,4 @@
+package srckotlin/*
 val map = mapOf('C' to 'G', 'G' to 'C', 'A' to 'T', 'T' to 'A')
 
 fun makeComplement(dna : String) : String {
@@ -5,4 +6,4 @@ fun makeComplement(dna : String) : String {
 }
 fun main(){
     println(makeComplement(""    ))
-}
+}*/

@@ -1,4 +1,4 @@
-//import java.lang.Math.pow
+package srckotlin//import java.lang.Math.pow
 //import kotlin.math.sqrt
 //
 //class Persegi(private val s:Int): Bangundatar()

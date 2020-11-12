@@ -1,4 +1,4 @@
-/*
+package srckotlin/*
 open class Bangundatar {
     open fun keliling(): Double {
         println("Keliling bangun datar ini adalah ")

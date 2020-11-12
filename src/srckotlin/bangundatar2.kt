@@ -1,4 +1,4 @@
-//fun main() {
+package srckotlin//fun main() {
 //    do {
 //        println("Hitung Luas dan Keliling dari bangun datar berikut :")
 //        println("======================================================")

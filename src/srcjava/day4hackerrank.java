@@ -1,3 +1,4 @@
+/*
 package srcjava;
 import java.util.*;
 
@@ -40,4 +41,4 @@ public class day4hackerrank {
         }
         sc.close();
     }
-}
+}*/
